@@ -1,0 +1,646 @@
+[
+	{
+		"name": "1v1 LOL",
+		"creator": "Unknown",
+		"image": "../assets/image/1v1lol.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/1v1lol"
+	},
+	{
+		"name": "Bullet Force",
+		"creator": "Blayze Games",
+		"image": "../assets/image/bulletforce.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/bulletforce"
+	},
+	{
+		"name": "Sausage Man",
+		"creator": "XD Entertainment",
+		"image": "../assets/image/sausageman.webp",
+		"hot": false,
+		"category": "action",
+		"iframepath": "../assets/games/sausageman"
+	},
+	{
+		"name": "Combat Reloaded",
+		"creator": "N-Dream",
+		"image": "../assets/image/combatreloaded.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/combatreloaded"
+	},
+	{
+		"name": "Evo Wars",
+		"creator": "Night Steed Games",
+		"image": "../assets/image/evowars.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/evolution"
+	},
+	{
+		"name": "Shell Shockers",
+		"creator": "Blue Wizard Digital",
+		"image": "../assets/image/shellshockers.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/shellshockers"
+	},
+	{
+		"name": "Zombs Royale",
+		"creator": "End Game",
+		"image": "../assets/image/zombsroyale.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/zombs-royale"
+	},
+	{
+		"name": "Stickman Fighters",
+		"creator": "DAB3 Games",
+		"image": "../assets/image/stickmanfighters.webp",
+		"hot": false,
+		"category": "action",
+		"iframepath": "../assets/games/stickmanfighters"
+	},
+	{
+		"name": "Merc Zone",
+		"creator": "Blue Wizard Digital",
+		"image": "../assets/image/merczone.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/merczone"
+	},
+	{
+		"name": "Mini Giants",
+		"creator": "Night Steed Games",
+		"image": "../assets/image/minigiants.webp",
+		"hot": false,
+		"category": "action",
+		"iframepath": "../assets/games/minigiants"
+	},
+	{
+		"name": "Krunker",
+		"creator": "Yendis Entertainment",
+		"image": "../assets/image/krunker.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/krunker"
+	},
+	{
+		"name": "Venge",
+		"creator": "OnRush Studio",
+		"image": "../assets/image/venge.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/venge"
+	},
+	{
+		"name": "Stick Merge",
+		"creator": "Kiz10",
+		"image": "../assets/image/stickmerge.webp",
+		"hot": false,
+		"category": "action",
+		"iframepath": "../assets/games/stick-merge"
+	},
+	{
+		"name": "Mad GunZ",
+		"creator": "Full HP Ltd",
+		"image": "../assets/image/madgunz.webp",
+		"hot": false,
+		"category": "action",
+		"iframepath": "../assets/games/madgunz"
+	},
+	{
+		"name": "War Brokers",
+		"creator": "Trebuchet Entertainment",
+		"image": "../assets/image/warbrokers.webp",
+		"hot": true,
+		"category": "action",
+		"iframepath": "../assets/games/warbrokers"
+	},
+	{
+		"name": "Pixel Gun Apocalypse",
+		"creator": "Vitality Games",
+		"image": "../assets/image/pixelgunapocalypse.webp",
+		"hot": false,
+		"category": "action",
+		"iframepath": "../assets/games/pixel-gun-survival"
+	},
+
+	{
+		"name": "Trimps",
+		"creator": "Green Satellite",
+		"image": "../assets/image/trimps.webp",
+		"hot": true,
+		"category": "strategy",
+		"iframepath": "../assets/games/Trimps"
+	},
+	{
+		"name": "Canyon Defense",
+		"creator": "Armor Games",
+		"image": "../assets/image/canyondefense.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/canyondefense"
+	},
+	{
+		"name": "Bloons TD",
+		"creator": "Ninja Kiwi",
+		"image": "../assets/image/bloonstd.webp",
+		"hot": true,
+		"category": "strategy",
+		"iframepath": "../assets/games/bloonstd"
+	},
+	{
+		"name": "Bloons TD 2",
+		"creator": "Ninja Kiwi",
+		"image": "../assets/image/bloonstd2.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/bloonstd2"
+	},
+	{
+		"name": "BTD 4",
+		"creator": "Ninja Kiwi",
+		"image": "../assets/image/btd4.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/btd4"
+	},
+	{
+		"name": "BTD 5",
+		"creator": "Ninja Kiwi",
+		"image": "../assets/image/btd5.webp",
+		"hot": true,
+		"category": "strategy",
+		"iframepath": "../assets/games/btd5"
+	},
+	{
+		"name": "Defend The Tank",
+		"creator": "Unknown",
+		"image": "../assets/image/defendthetank.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/defend-the-tank"
+	},
+	{
+		"name": "Stickman Survival",
+		"creator": "Unknown",
+		"image": "../assets/image/stickmansurvival.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/stickman-survival"
+	},
+	{
+		"name": "Battle For Gondor",
+		"creator": "Unknown",
+		"image": "../assets/image/battleforgondor.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/battleforgondor"
+	},
+	{
+		"name": "Champion Archer",
+		"creator": "Armor Games",
+		"image": "../assets/image/championarcher.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/championarcher"
+	},
+	{
+		"name": "Creative Kill Chamber",
+		"creator": "Armor Games",
+		"image": "../assets/image/creativekillchamber.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/creativekillchamber"
+	},
+	{
+		"name": "Alien Hominid",
+		"creator": "The Behemoth",
+		"image": "../assets/image/alienhominid.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/alienhominid"
+	},
+	{
+		"name": "A Dark Room",
+		"creator": "Doublespeak Games",
+		"image": "../assets/image/adarkroom.webp",
+		"hot": true,
+		"category": "strategy",
+		"iframepath": "../assets/games/adarkroom"
+	},
+	{
+		"name": "Ages Of Conflict",
+		"creator": "JokuPelle",
+		"image": "../assets/image/agesofconflict.webp",
+		"hot": true,
+		"category": "strategy",
+		"iframepath": "../assets/games/ages-of-conflict"
+	},
+	{
+		"name": "Astray",
+		"creator": "Unknown",
+		"image": "../assets/image/astray.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/astray"
+	},
+	{
+		"name": "Hex GL",
+		"creator": "BKcore",
+		"image": "../assets/image/hexgl.webp",
+		"hot": false,
+		"category": "strategy",
+		"iframepath": "../assets/games/HexGL"
+	},
+
+	{
+		"name": "Basketball Stars",
+		"creator": "Madpuffers",
+		"image": "../assets/image/basketballstars.webp",
+		"hot": true,
+		"category": "sports",
+		"iframepath": "../assets/games/basketball-stars"
+	},
+	{
+		"name": "Basket Random",
+		"creator": "RHM Interactive",
+		"image": "../assets/image/basketrandom.webp",
+		"hot": true,
+		"category": "sports",
+		"iframepath": "../assets/games/basket-random"
+	},
+	{
+		"name": "Basket Bros IO",
+		"creator": "Blue Wizard Digital",
+		"image": "../assets/image/basketbrosio.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/basketbros-io"
+	},
+	{
+		"name": "Boxing Random",
+		"creator": "RHM Interactive",
+		"image": "../assets/image/boxingrandom.webp",
+		"hot": true,
+		"category": "sports",
+		"iframepath": "../assets/games/boxing-random"
+	},
+	{
+		"name": "Cannon Basketball 4",
+		"creator": "Unknown",
+		"image": "../assets/image/cannonbasketball4.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/cannon-basketball-4"
+	},
+	{
+		"name": "CTR",
+		"creator": "Unknown",
+		"image": "../assets/image/ctr.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/ctr"
+	},
+	{
+		"name": "CTR Holiday",
+		"creator": "Unknown",
+		"image": "../assets/image/ctrholiday.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/ctr-holiday"
+	},
+	{
+		"name": "CTR TR",
+		"creator": "Unknown",
+		"image": "../assets/image/ctrtr.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/ctr-tr"
+	},
+	{
+		"name": "Cars Simulator",
+		"creator": "Unknown",
+		"image": "../assets/image/carssimulator.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/cars-simulator"
+	},
+	{
+		"name": "Rocket League",
+		"creator": "Psyonix (Fan Remake)",
+		"image": "../assets/image/rocketleague.webp",
+		"hot": true,
+		"category": "sports",
+		"iframepath": "../assets/games/Rocket-League"
+	},
+	{
+		"name": "CN Ping Pong",
+		"creator": "Cartoon Network",
+		"image": "../assets/image/cnpingpong.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/cnpingpong"
+	},
+	{
+		"name": "Bus And Subway",
+		"creator": "Unknown",
+		"image": "../assets/image/busandsubway.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/busandsubway"
+	},
+	{
+		"name": "Champion Island",
+		"creator": "Google",
+		"image": "../assets/image/championisland.webp",
+		"hot": true,
+		"category": "sports",
+		"iframepath": "../assets/games/champion-island"
+	},
+	{
+		"name": "Aqua Park Slides",
+		"creator": "Unknown",
+		"image": "../assets/image/aquaparkslides.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/aquapark-slides"
+	},
+	{
+		"name": "Amazing Rope Police",
+		"creator": "Unknown",
+		"image": "../assets/image/amazingropepolice.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/amazing-rope-police"
+	},
+	{
+		"name": "Adrenaline Challenge",
+		"creator": "Unknown",
+		"image": "../assets/image/adrenalinechallenge.webp",
+		"hot": false,
+		"category": "sports",
+		"iframepath": "../assets/games/adrenalinechallenge"
+	},
+
+	{
+		"name": "2048",
+		"creator": "Gabriele Cirulli",
+		"image": "../assets/image/2048.webp",
+		"hot": true,
+		"category": "puzzle",
+		"iframepath": "../assets/games/2048"
+	},
+	{
+		"name": "Cupcake 2048",
+		"creator": "Unknown",
+		"image": "../assets/image/cupcake2048.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/cupcake2048"
+	},
+	{
+		"name": "Hextris",
+		"creator": "Hextris",
+		"image": "../assets/image/hextris.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/hextris"
+	},
+	{
+		"name": "Connect 3",
+		"creator": "Unknown",
+		"image": "../assets/image/connect3.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/connect3"
+	},
+	{
+		"name": "Cell Machine",
+		"creator": "Sam Hogan",
+		"image": "../assets/image/cellmachine.webp",
+		"hot": true,
+		"category": "puzzle",
+		"iframepath": "../assets/games/cell-machine"
+	},
+	{
+		"name": "Doge 2048",
+		"creator": "Unknown",
+		"image": "../assets/image/doge2048.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/doge2048"
+	},
+	{
+		"name": "Circlo",
+		"creator": "Unknown",
+		"image": "../assets/image/circlo.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/circlo"
+	},
+	{
+		"name": "Core Ball",
+		"creator": "Unknown",
+		"image": "../assets/image/coreball.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/core-ball"
+	},
+	{
+		"name": "Deal Or No Deal",
+		"creator": "Endemol (Fan Remake)",
+		"image": "../assets/image/dealornodeal.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/deal-or-no-deal"
+	},
+	{
+		"name": "Deepest Sword",
+		"creator": "Cosmic Adventure Squad",
+		"image": "../assets/image/deepestsword.webp",
+		"hot": true,
+		"category": "puzzle",
+		"iframepath": "../assets/games/deepest-sword"
+	},
+	{
+		"name": "Avalanche",
+		"creator": "Unknown",
+		"image": "../assets/image/avalanche.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/avalanche"
+	},
+	{
+		"name": "Bloxors",
+		"creator": "Unknown",
+		"image": "../assets/image/bloxors.webp",
+		"hot": true,
+		"category": "puzzle",
+		"iframepath": "../assets/games/bloxors"
+	},
+	{
+		"name": "Shape Shootout",
+		"creator": "Unknown",
+		"image": "../assets/image/shapeshootout.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/ShapeShootout"
+	},
+	{
+		"name": "9007199254740992",
+		"creator": "Unknown",
+		"image": "../assets/image/9007199254740992.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/9007199254740992"
+	},
+	{
+		"name": "Bitlife",
+		"creator": "Candywriter (Fan Remake)",
+		"image": "../assets/image/bitlife.webp",
+		"hot": true,
+		"category": "puzzle",
+		"iframepath": "../assets/games/bitlife"
+	},
+	{
+		"name": "Achievement Unlocked",
+		"creator": "Armor Games",
+		"image": "../assets/image/achievementunlocked.webp",
+		"hot": false,
+		"category": "puzzle",
+		"iframepath": "../assets/games/achievementunlocked"
+	},
+
+	{
+		"name": "Monkey Mart",
+		"creator": "TinyDobbins",
+		"image": "../assets/image/monkeymart.webp",
+		"hot": true,
+		"category": "arcade",
+		"iframepath": "../assets/games/MonkeyMart"
+	},
+	{
+		"name": "Run 2",
+		"creator": "Player03",
+		"image": "../assets/image/run2.webp",
+		"hot": true,
+		"category": "arcade",
+		"iframepath": "../assets/games/run2"
+	},
+	{
+		"name": "Doodle Jump",
+		"creator": "Lima Sky",
+		"image": "../assets/image/doodlejump.webp",
+		"hot": true,
+		"category": "arcade",
+		"iframepath": "../assets/games/doodle-jump"
+	},
+	{
+		"name": "Crossy Road",
+		"creator": "Hipster Whale",
+		"image": "../assets/image/crossyroad.webp",
+		"hot": true,
+		"category": "arcade",
+		"iframepath": "../assets/games/crossyroad"
+	},
+	{
+		"name": "Cubefield",
+		"creator": "Unknown",
+		"image": "../assets/image/cubefield.webp",
+		"hot": false,
+		"category": "arcade",
+		"iframepath": "../assets/games/cubefield"
+	},
+	{
+		"name": "Chrome Dino",
+		"creator": "Google",
+		"image": "../assets/image/chromedino.webp",
+		"hot": true,
+		"category": "arcade",
+		"iframepath": "../assets/games/chrome-dino"
+	},
+	{
+		"name": "Backrooms",
+		"creator": "Unknown",
+		"image": "../assets/image/backrooms.webp",
+		"hot": false,
+		"category": "arcade",
+		"iframepath": "../assets/games/backrooms"
+	},
+	{
+		"name": "Backrooms 2D",
+		"creator": "Unknown",
+		"image": "../assets/image/backrooms2d.webp",
+		"hot": false,
+		"category": "arcade",
+		"iframepath": "../assets/games/backrooms-2d"
+	},
+	{
+		"name": "Adventure Drivers",
+		"creator": "Unknown",
+		"image": "../assets/image/adventuredrivers.webp",
+		"hot": false,
+		"category": "arcade",
+		"iframepath": "../assets/games/adventure-drivers"
+	},
+	{
+		"name": "Awesome Tanks 2",
+		"creator": "Alexander Gette",
+		"image": "../assets/image/awesometanks2.webp",
+		"hot": true,
+		"category": "arcade",
+		"iframepath": "../assets/games/awesometanks2"
+	},
+	{
+		"name": "Bad Ice Cream",
+		"creator": "Nitrome",
+		"image": "../assets/image/badicecream.webp",
+		"hot": true,
+		"category": "arcade",
+		"iframepath": "../assets/games/bad-ice-cream"
+	},
+	{
+		"name": "Bad Ice Cream 2",
+		"creator": "Nitrome",
+		"image": "../assets/image/badicecream2.webp",
+		"hot": false,
+		"category": "arcade",
+		"iframepath": "../assets/games/bad-ice-cream-2"
+	},
+	{
+		"name": "Bad Ice Cream 3",
+		"creator": "Nitrome",
+		"image": "../assets/image/badicecream3.webp",
+		"hot": false,
+		"category": "arcade",
+		"iframepath": "../assets/games/bad-ice-cream-3"
+	},
+	{
+		"name": "Bob The Robber 2",
+		"creator": "Meow Beast",
+		"image": "../assets/image/bobtherobber2.webp",
+		"hot": false,
+		"category": "arcade",
+		"iframepath": "../assets/games/bobtherobber2"
+	},
+	{
+		"name": "Boxhead 2 Play",
+		"creator": "Sean Cooper",
+		"image": "../assets/image/boxhead2play.webp",
+		"hot": false,
+		"category": "arcade",
+		"iframepath": "../assets/games/boxhead2play"
+	},
+	{
+		"name": "Bonk IO",
+		"creator": "Chaz",
+		"image": "../assets/image/bonkio.webp",
+		"hot": true,
+		"category": "arcade",
+		"iframepath": "../assets/games/bonkio"
+	}
+]
