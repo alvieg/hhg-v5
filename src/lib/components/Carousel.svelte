@@ -4,8 +4,8 @@
 	export let title = '';
 	export let list = [];
 	let link = '/game/';
-	function initCarouselAutoplay(selector) {
-		const track = document.querySelector(selector + ' .carousel-track');
+	function initCarouselAutoplay() {
+		const track = document.querySelector('.carousel-track');
 		if (!track) {
 			console.warn(`Carousel track not found: ${selector}`);
 			return;
@@ -59,8 +59,7 @@
 	}
 
 	onMount(() => {
-		const cleanup = initCarouselAutoplay(`#${title}-games`);
-		return cleanup;
+		initCarouselAutoplay()
 	});
 </script>
 
@@ -70,8 +69,11 @@
 	<div class="carousel-track">
 		{#each list as item}
 			<div class="carousel-card">
-				<a href={link + encodeURIComponent(item.name)}>
-					<img src={item.image} alt="{item.name} image" title={item.name} class="game-image" />
+				<a href={link + item.slug}>
+					<!--<img src={item.image} alt="{item.name} image" title={item.name} class="game-image" />-->
+					<div class="game-img">
+						<h3 class="game-title">{item.name}</h3>
+					</div>
 				</a>
 			</div>
 		{/each}
@@ -143,7 +145,7 @@
 		display: block;
 	}
 
-	.carousel-card img {
+	.game-img {
 		width: 100%;
 		height: 150px;
 		object-fit: cover;
@@ -151,8 +153,19 @@
 		transition: transform 0.3s ease;
 	}
 
-	.carousel-card:hover img {
+	.game-img {
 		transform: scale(1.05);
+	}
+
+	.game-title {
+		text-align: center;
+		font-size: 2rem;
+		justify-self: center;
+	}
+
+	.game-creator {
+		text-align: center;
+		font-size: 1rem;
 	}
 
 	/* Carousel navigation arrows */

@@ -1,6 +1,6 @@
 <script>
 	import { Carousel, AllGames } from '$lib';
-	import games from '$lib/data/games.json';
+	import games from '../lib/data/games.json';
 
 	const categories = ['Action', 'Strategy', 'Sports', 'Arcade', 'Puzzle'];
 

@@ -7,8 +7,8 @@
 	<h3 class="category-title">All Games</h3>
 	{#each games as game (game.name)}
 		<div class="game-card">
-			<a href={link + encodeURIComponent(game.name)}>
-				<img src={game.image} alt="{game.name} image" class="game-image" title={game.name} />
+			<a href={link + game.slug}>
+				<!--<img src={game.image} alt="{game.name} image" class="game-image" title={game.name} />-->
 				<h4 class="game-name">{game.name}</h4>
 				<p class="game-creator">{game.creator}</p></a
 			>
