@@ -1,4 +1,6 @@
 <script>
+	import favicon from '$lib/assets/favicon/apple-touch-icon.png'
+	import fullscreenicon from '$lib/assets/image/fullscreen.webp'
 	export let data;
 	const { game } = data;
 </script>
@@ -40,7 +42,7 @@
 
 	<div class="Tag">
 		<div class="tagcontainer">
-			<img class="TagImg" alt="Game Thumbnail" width="90" height="90" src={game.image} />
+			<img class="TagImg" alt="Game Thumbnail" width="90" height="90" src={favicon} />
 			<div class="TagTextContainer">
 				<h1 class="TagGameName">{game.name}</h1>
 				<h2 class="TagGameCreator">by {game.creator}</h2>
@@ -54,7 +56,7 @@
 				if (iframe?.requestFullscreen) iframe.requestFullscreen();
 			}}
 		>
-			<img src="$lib/assets/image/fullscreen.webp" class="FullscreenImg" alt="Fullscreen Icon" />
+			<img src={fullscreenicon} class="FullscreenImg" alt="Fullscreen Icon" />
 		</a>
 	</div>
 </main>
